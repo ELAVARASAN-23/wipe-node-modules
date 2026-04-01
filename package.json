@@ -1,6 +1,6 @@
 {
-  "name": "del-node-modules",
-  "version": "2.1.0",
+  "name": "wipe-node-modules",
+  "version": "1.0.1",
   "description": "🚀 Fancy CLI tool to recursively find and delete node_modules folders with size calculation and parallel deletion",
   "keywords": [
     "node_modules",
@@ -10,19 +10,19 @@
     "cli",
     "developer-tools"
   ],
-  "homepage": "https://github.com/your-username/node-modules-cleaner#readme",
+  "homepage": "https://github.com/ELAVARASAN-23/wipe-node-modules#readme",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/your-username/node-modules-cleaner.git"
+    "url": "git+https://github.com/ELAVARASAN-23/wipe-node-modules.git"
   },
   "bugs": {
-    "url": "https://github.com/your-username/node-modules-cleaner/issues"
+    "url": "https://github.com/ELAVARASAN-23/wipe-node-modules/issues"
   },
   "license": "MIT",
   "author": "Elavarasan",
   "type": "module",
   "bin": {
-    "nmc": "./index.js"
+    "nmc": "index.js"
   },
   "files": [
     "index.js"

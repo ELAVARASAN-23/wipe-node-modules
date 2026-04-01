@@ -1,4 +1,4 @@
-# 🚀 del-node-modules
+# 🚀 wipe-node-modules
 
 > Fancy CLI tool to recursively find and delete `node_modules` folders with style, speed, and safety.
 
@@ -21,13 +21,13 @@
 ### Global install
 
 ```bash
-npm install -g del-node-modules
+npm install -g wipe-node-modules
 ```
 
 ### Run with npx
 
 ```bash
-npx del-node-modules
+npx wipe-node-modules
 ```
 
 ---
@@ -35,7 +35,7 @@ npx del-node-modules
 ## 🚀 Usage
 
 ```bash
-del-node-modules [path]
+wipe-node-modules [path]
 ```
 
 ### Examples
@@ -43,7 +43,7 @@ del-node-modules [path]
 #### 1. Run in current directory
 
 ```bash
-del-node-modules
+wipe-node-modules
 ```
 
 > ⚠️ Shows warning and scans current folder
@@ -51,7 +51,7 @@ del-node-modules
 #### 2. Provide a specific path
 
 ```bash
-del-node-modules ./my-project
+wipe-node-modules ./my-project
 ```
 
 ---
@@ -112,8 +112,8 @@ Node Modules Cleaner
 ## 🧪 Development
 
 ```bash
-git clone https://github.com/your-username/del-node-modules.git
-cd del-node-modules
+git clone https://github.com/ELAVARASAN-23/wipe-node-modules.git
+cd wipe-node-modules
 npm install
 npm link
 ```
@@ -121,7 +121,7 @@ npm link
 Run locally:
 
 ```bash
-del-node-modules
+wipe-node-modules
 ```
 
 ---
@@ -147,9 +147,9 @@ npm publish --access public
 
 ## 🏷️ Badges
 
-![npm](https://img.shields.io/npm/v/del-node-modules)
-![downloads](https://img.shields.io/npm/dw/del-node-modules)
-![license](https://img.shields.io/npm/l/del-node-modules)
+![npm](https://img.shields.io/npm/v/wipe-node-modules)
+![downloads](https://img.shields.io/npm/dw/wipe-node-modules)
+![license](https://img.shields.io/npm/l/wipe-node-modules)
 
 ---
 
