@@ -1,0 +1,38 @@
+{
+  "name": "del-node-modules",
+  "version": "2.1.0",
+  "description": "🚀 Fancy CLI tool to recursively find and delete node_modules folders with size calculation and parallel deletion",
+  "keywords": [
+    "node_modules",
+    "cleaner",
+    "cleanup",
+    "disk-space",
+    "cli",
+    "developer-tools"
+  ],
+  "homepage": "https://github.com/your-username/node-modules-cleaner#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/your-username/node-modules-cleaner.git"
+  },
+  "bugs": {
+    "url": "https://github.com/your-username/node-modules-cleaner/issues"
+  },
+  "license": "MIT",
+  "author": "Elavarasan",
+  "type": "module",
+  "bin": {
+    "nmc": "./index.js"
+  },
+  "files": [
+    "index.js"
+  ],
+  "engines": {
+    "node": ">=16"
+  },
+  "dependencies": {
+    "chalk": "^5.6.2",
+    "inquirer": "^9.0.0",
+    "ora": "^9.3.0"
+  }
+}

@@ -1,0 +1,65 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Runtime data
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# Dependency directories
+node_modules/
+
+# Optional npm cache directory
+.npm
+
+# Build outputs (include only if you DON'T want to publish them)
+dist/
+build/
+lib/
+
+# TypeScript cache
+*.tsbuildinfo
+
+# Coverage directory
+coverage/
+
+# Environment variables
+.env
+.env.test
+.env.production
+
+# Mac / Linux / Windows system files
+.DS_Store
+Thumbs.db
+
+# IDEs and editors
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Temporary files
+tmp/
+temp/
+
+# Package lock files (optional: usually keep ONE)
+# package-lock.json
+# yarn.lock
+# pnpm-lock.yaml
+
+# Test files (optional: exclude if not needed in repo)
+test/
+tests/
+__tests__/
+
+# Docs (optional)
+docs/
+
+# Examples (optional)
+examples/
