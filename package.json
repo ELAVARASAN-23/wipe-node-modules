@@ -22,7 +22,8 @@
   "author": "Elavarasan",
   "type": "module",
   "bin": {
-    "nmc": "./index.js"
+    "nmc": "./index.js",
+    "node-modules-sweeper": "./index.js"
   },
   "files": [
     "index.js"
