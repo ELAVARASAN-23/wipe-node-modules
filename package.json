@@ -3,6 +3,8 @@
   "version": "1.0.3",
   "description": "🚀 Fancy CLI tool to recursively find and delete node_modules folders with size calculation and parallel deletion",
   "keywords": [
+    "remove node modules",
+    "delete node modules",
     "node_modules",
     "cleaner",
     "cleanup",
@@ -22,6 +24,7 @@
   "author": "Elavarasan",
   "type": "module",
   "bin": {
+    "wipe-node-modules": "./index.js",
     "nmc": "./index.js",
     "node-modules-sweeper": "./index.js"
   },
