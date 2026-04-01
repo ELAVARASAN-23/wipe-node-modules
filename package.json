@@ -1,6 +1,6 @@
 {
   "name": "wipe-node-modules",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "🚀 Fancy CLI tool to recursively find and delete node_modules folders with size calculation and parallel deletion",
   "keywords": [
     "node_modules",
